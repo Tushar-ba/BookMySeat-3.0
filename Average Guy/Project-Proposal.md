@@ -9,18 +9,18 @@ Provide the title of your project.
 
 ### Project abstract
 
-_We're building a Event Management Website, which is decentralized platform to Book, Create & View the events, additionally this website gives informations and allows you to book a table, room  of the nearby Hotels and Resturants or Clubs for the after party to celebrate after the event or to stay in a particular city after the event to stick around and explore  the city. Additionally can avail a discount at if the event hosted has partnered with the hotels listed in there page_
+_We're building a Event Management Website, which is decentralized platform to Book, Create & View the events, additionally this website gives informations and allows you to book a table, room  of the nearby Hotels and Resturants or Clubs for the after party to celebrate after the event or to stay in a particular city after the event to stick around and explore  the city. Additionally can avail a discount at the hotel, resturant if the event being hosted has partnered with the hotels,restaurants listed in their page_
 
 ### Project breakdown 
 **Why choose BookMySeat 3.0**
 _Our decentralized event management DApp stands out as the optimal choice, offering not only a secure and transparent platform for seamless event coordination but also an exclusive feature that suggests nearby hotels and restaurants, elevating the overall attendee experience. By choosing our DApp, organizers ensure a comprehensive solution that prioritizes convenience, community engagement, and lasting memories for all participants._
 
 **Problem Statement**
-_BookMySeat 3.0 focus on simplifying event organization. Enhance attendee experience by not only allowing to book a seat to the event but by also  integrating a feature where they can find  nearby hotels and restaurants for post-event gatherings, ensuring seamless coordination and a memorable event experience listed in the event page and avil discounts and benifits by showing the minted NFT after the purchasel of the tickets._
+_BookMySeat 3.0 focus on simplifying event organization. Enhance attendee experience by not only allowing to book a seat to the event but by also  integrating a feature where they can find  nearby hotels and restaurants for post-event gatherings, ensuring seamless co-ordination and a memorable event experience listed in the event page and avail discounts and benifits by showing the minted NFT after the purchasel of the tickets._
 
 **How it works**
 _User Friendly Interface_: Easy, Suddle & Neat for the best User Experience
-_Managing your Account_: Easy to manage your cryotocurrency and the minted NFTS with built in authentication system to login with **Meta Mask**
+_Managing your Account_: Easy to manage your cryotocurrency and the minted NFT's with built-in authentication system to login with **Meta Mask**
 
 ### Technology Stack
 * Solidity 
