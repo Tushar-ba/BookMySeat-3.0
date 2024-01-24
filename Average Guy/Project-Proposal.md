@@ -39,7 +39,7 @@ _Managing your Account_: Easy to manage your cryotocurrency and the minted NFTS 
 
 # Team Details Section 
 
-[Tushar](https://github.com/Tushar-ba/Profile)
+ **Tushar** [Github Profile](https://github.com/Tushar-ba/Profile)
 
 -----
 # Future Prospects and Conclusion
